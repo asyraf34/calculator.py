@@ -1,17 +1,16 @@
 def add(x, y):
-    # todo
-    pass
+    return x+y
 
 def subtract(x, y):
-    # todo
+    return x-y
     pass
 
 def multiply(x, y):
-    # todo
+    return x*y
     pass
 
 def divide(x, y):
-    # todo
+    return x/y
     pass
 
 print("Select operation.")

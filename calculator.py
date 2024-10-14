@@ -6,8 +6,7 @@ def subtract(x, y):
     pass
 
 def multiply(x, y):
-    mul = x*y
-    return mul
+    return x*y
     pass
 
 def divide(x, y):
